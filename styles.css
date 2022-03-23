@@ -1,0 +1,33 @@
+/* add CSS here */
+img {
+    height: 200px;
+    width: 300px;
+}
+
+div {
+    border: 1px solid gray;
+}
+.main {
+    width: 300px;
+    padding: 15px;
+}
+.specs {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    width: 270px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.fact {
+    font-style: italic;
+}
